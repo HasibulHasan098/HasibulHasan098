@@ -45,7 +45,7 @@ Signature: **biday prithibi**
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=HasibulHasan098&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://raw.githubusercontent.com/puliczek/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/HasibulHasan098/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
 </p>
 
 ---
